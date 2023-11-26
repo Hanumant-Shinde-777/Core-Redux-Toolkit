@@ -7,7 +7,7 @@ echo "# Core-Redux-Toolkit" >> README.md
   git push -u origin main
 
 
-
+tokkem of core Redux
 
   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
 
