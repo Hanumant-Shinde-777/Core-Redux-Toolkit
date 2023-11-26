@@ -9,15 +9,6 @@ echo "# Core-Redux-Toolkit" >> README.md
 
 tokkem of core Redux
 
-  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
+ 
 
-
-   git remote set-url origin https://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@github.com/Hanumant-Shinde-777/Advance-React.git
-
-
- git remote set-url origin https://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@github.com/Hanumant-Shinde-777/Advance-React.git
-
-
-
- git remote add origin https://github.com/Hanumant-Shinde-777/Advance-React.git
  
